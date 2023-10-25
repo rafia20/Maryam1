@@ -5,6 +5,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>Open up App.js to start working on your app thid id sppppppp!
+sab galat ho raha hai 
 
         idk kuin ni horaha hai lets see
       </Text>
